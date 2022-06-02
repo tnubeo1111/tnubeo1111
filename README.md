@@ -9,6 +9,8 @@
 
 -📫 How to contact me? Make a PR post, haha
 
+-📫 Mail: letha01677583903@gmail.com
+
 <!---
 tnubeo1111/tnubeo1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
