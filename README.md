@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thà Lê Thành
+# Hi there! 👋 I'm Night owl
 
 *Turning ideas into code, and code into solutions that actually work in production*
 
@@ -6,12 +6,12 @@ With passion for technology and continuous learning, I've been exploring various
 
 ## 🚀 What I Do
 
-- 🐍 **Python & Bash Scripting**: Building automation tools and infrastructure management scripts
-- 🐳 **Container Orchestration**: Deploying and managing applications with Docker & Kubernetes
-- ⚙️ **CI/CD Engineering**: Implementing pipelines with Jenkins and GitOps with ArgoCD
-- 📊 **Monitoring & Observability**: Setting up comprehensive monitoring solutions for distributed systems
-- 🕸️ **Service Mesh**: Managing microservices communication and security with service mesh technologies
-- 🔧 **DevOps Engineering**: End-to-end automation from code to production deployment
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python & Bash Scripting**: Building automation tools and infrastructure management scripts
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) **Container Orchestration**: Deploying and managing applications with Docker & Kubernetes
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **CI/CD Engineering**: Implementing pipelines with Jenkins and GitOps with ArgoCD
+- ![Prometheus](https://img.shields.io/badge/-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white) **Monitoring & Observability**: Setting up comprehensive monitoring solutions for distributed systems
+- ![Istio](https://img.shields.io/badge/-Service_Mesh-466BB0?style=flat&logo=istio&logoColor=white) **Service Mesh**: Managing microservices communication and security with service mesh technologies
+- ![Kubernetes](https://img.shields.io/badge/-DevOps-326CE5?style=flat&logo=kubernetes&logoColor=white) **DevOps Engineering**: End-to-end automation from code to production deployment
 
 ## 💼 Experience & Focus
 
@@ -26,29 +26,28 @@ With passion for technology and continuous learning, I've been exploring various
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Scripting:**
-- Python 🐍 - Automation, tooling, and application development
-- Bash Scripting 🔧 - System administration and infrastructure automation
-- YAML/JSON - Configuration management and manifest files
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - Automation, tooling, and application development
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) - System administration and infrastructure automation
+- ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white) - Configuration management and manifest files
 
 **Container & Orchestration:**
-- Docker 🐳 - Containerization and multi-stage builds
-- Kubernetes ☸️ - Container orchestration, deployments, and cluster management
-- Helm Charts - Package management for Kubernetes applications
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) - Containerization and multi-stage builds
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) - Container orchestration, deployments, and cluster management
+- ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) - Package management for Kubernetes applications
 
 **CI/CD & GitOps:**
-- Jenkins 🔨 - Continuous Integration and Delivery pipelines
-- ArgoCD 🔄 - GitOps-based continuous deployment and configuration management
-- Git Workflows - Branching strategies and automated deployments
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) - Continuous Integration and Delivery pipelines
+- ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) - GitOps-based continuous deployment and configuration management
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) - Version control and automated deployments
 
 **Monitoring & Observability:**
-- Prometheus & Grafana - Metrics collection and visualization
-- ELK Stack - Centralized logging and log analysis
-- Distributed Tracing - Application performance monitoring
+- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) - Metrics collection and alerting
+- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) - Metrics visualization and dashboarding
+- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) - Centralized logging and log analysis
 
 **Service Mesh & Networking:**
-- Istio/Linkerd 🕸️ - Service-to-service communication and security
-- Ingress Controllers - Traffic routing and load balancing
-- Network Policies - Security and traffic management
+- ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white) - Service-to-service communication and security
+- ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) - Ingress controllers and load balancing
 
 ## 🎯 Current Projects
 
@@ -61,7 +60,19 @@ With passion for technology and continuous learning, I've been exploring various
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tnubeo1111&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tnubeo1111&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnubeo1111&theme=default" alt="GitHub Streak" />
+</p>
+
+## 🔧 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,jenkins,prometheus,grafana,git,github,linux,vim,vscode" alt="Tech Stack" />
+</p>
 
 ## 🌱 Learning & Growth
 
